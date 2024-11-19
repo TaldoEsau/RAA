@@ -1,0 +1,10 @@
+{
+  "routes": [
+    {
+      "src": "/pattern-marker.patt",
+      "headers": {
+        "Content-Type": "application/octet-stream"
+      }
+    }
+  ]
+}
